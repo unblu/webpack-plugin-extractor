@@ -1,0 +1,22 @@
+{
+  "author": {
+    "email": "denis.trueby@unblu.com",
+    "name": "Denis Trüby",
+    "url": "unblu.com"
+  },
+  "dependencies": {},
+  "description": "Plugin to extract content of chunks and create a new chunk file from it",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "lib"
+  ],
+  "license": "",
+  "main": "lib/index.js",
+  "name": "webpack-plugin-extractor",
+  "peerDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
