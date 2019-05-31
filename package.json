@@ -4,12 +4,9 @@
     "name": "Denis Trüby",
     "url": "unblu.com"
   },
-  "dependencies": {
-    "webpack": "4.32.2"
-  },
   "description": "Plugin to extract content of chunks and create a new chunk file from it",
   "devDependencies": {
-    "webpack": "4.32.2"
+    "webpack": "^4.32.2"
   },
   "directories": {},
   "files": [
@@ -22,5 +19,5 @@
     "webpack": "^4.32.2"
   },
   "scripts": {},
-  "version": "2.0.0"
+  "version": "1.0.0"
 }
