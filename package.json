@@ -6,7 +6,7 @@
   },
   "description": "Plugin to extract content of chunks and create a new chunk file from it",
   "devDependencies": {
-    "webpack": "^4.32.2"
+    "webpack": "^5.20.2"
   },
   "directories": {},
   "files": [
@@ -16,8 +16,8 @@
   "main": "lib/index.js",
   "name": "webpack-plugin-extractor",
   "peerDependencies": {
-    "webpack": "^4.32.2"
+    "webpack": "^5.20.2"
   },
   "scripts": {},
-  "version": "1.0.1"
+  "version": "5.0.0"
 }
